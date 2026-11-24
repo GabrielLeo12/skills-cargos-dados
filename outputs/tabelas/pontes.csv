@@ -1,0 +1,11 @@
+﻿alvo,skill,pct_analista,pct_alvo,diferenca_pp
+Cientista,Machine Learning,9.1,75.9,66.8
+Cientista,Estatística,18.8,57.6,38.8
+Cientista,Python,45.5,82.4,36.8
+Cientista,AWS,7.3,35.9,28.6
+Cientista,IA Generativa,9.7,35.3,25.6
+Engenheiro,Spark,4.3,52.6,48.3
+Engenheiro,Data Lake / Lakehouse,9.0,56.1,47.2
+Engenheiro,CI/CD,2.1,46.9,44.9
+Engenheiro,AWS,7.3,46.1,38.7
+Engenheiro,Databricks,12.7,47.4,34.6

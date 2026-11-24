@@ -1,0 +1,47 @@
+﻿skill,Júnior,Sênior,diferenca_pp,cargo
+SQL,62.8,77.6,14.8,Analista
+Python,47.4,57.2,9.8,Analista
+R,9.0,5.5,-3.5,Analista
+DAX,5.1,12.9,7.8,Analista
+VBA / Macros,3.8,2.0,-1.9,Analista
+Excel,53.8,34.8,-19.0,Analista
+Google Sheets,5.1,6.5,1.3,Analista
+Power BI,65.4,64.7,-0.7,Analista
+Tableau,12.8,14.9,2.1,Analista
+Looker,7.7,12.9,5.2,Analista
+Qlik,5.1,3.5,-1.6,Analista
+AWS,6.4,10.9,4.5,Analista
+Azure,12.8,18.4,5.6,Analista
+GCP / BigQuery,10.3,18.4,8.2,Analista
+ETL,12.8,22.4,9.6,Analista
+Data Warehouse,12.8,11.9,-0.9,Analista
+Modelagem de dados,16.7,32.8,16.2,Analista
+Databricks,12.8,21.4,8.6,Analista
+Spark,5.1,7.5,2.3,Analista
+Airflow,2.6,4.5,1.9,Analista
+dbt,0.0,4.5,4.5,Analista
+Git,10.3,8.0,-2.3,Analista
+Estatística,17.9,26.4,8.4,Analista
+Machine Learning,5.1,11.4,6.3,Analista
+IA Generativa,6.4,14.4,8.0,Analista
+Storytelling,1.3,9.0,7.7,Analista
+Comunicação,28.2,46.8,18.6,Analista
+Inglês,21.8,28.9,7.1,Analista
+Kafka,0.0,0.0,0.0,Analista
+Snowflake,1.3,4.0,2.7,Analista
+BigQuery,3.8,10.9,7.1,Analista
+Redshift,0.0,1.5,1.5,Analista
+Data Lake / Lakehouse,7.7,14.4,6.7,Analista
+Docker,0.0,1.0,1.0,Analista
+Kubernetes,0.0,1.0,1.0,Analista
+CI/CD,0.0,4.0,4.0,Analista
+Terraform,0.0,0.5,0.5,Analista
+Linux,1.3,0.5,-0.8,Analista
+Scala,0.0,0.0,0.0,Analista
+Java,1.3,0.5,-0.8,Analista
+Deep Learning,0.0,0.0,0.0,Analista
+scikit-learn,2.6,1.5,-1.1,Analista
+TensorFlow / PyTorch,0.0,0.0,0.0,Analista
+NLP,0.0,1.5,1.5,Analista
+Testes A/B,2.6,6.0,3.4,Analista
+Pandas,6.4,6.5,0.1,Analista

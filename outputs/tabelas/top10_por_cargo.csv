@@ -1,0 +1,31 @@
+﻿cargo,posicao,skill,percentual
+Analista,1,SQL,65.8
+Analista,2,Power BI,63.2
+Analista,3,Python,45.5
+Analista,4,Excel,44.7
+Analista,5,Comunicação,40.1
+Analista,6,Modelagem de dados,25.4
+Analista,7,Inglês,24.6
+Analista,8,Estatística,18.8
+Analista,9,ETL,18.4
+Analista,10,DAX,13.6
+Cientista,1,Python,82.4
+Cientista,2,Machine Learning,75.9
+Cientista,3,SQL,65.9
+Cientista,4,Estatística,57.6
+Cientista,5,Comunicação,47.1
+Cientista,6,AWS,35.9
+Cientista,7,IA Generativa,35.3
+Cientista,8,Azure,31.8
+Cientista,9,GCP / BigQuery,30.6
+Cientista,10,Inglês,30.6
+Engenheiro,1,SQL,84.2
+Engenheiro,2,Python,74.6
+Engenheiro,3,Data Lake / Lakehouse,56.1
+Engenheiro,4,Spark,52.6
+Engenheiro,5,ETL,50.4
+Engenheiro,6,Modelagem de dados,47.8
+Engenheiro,7,Databricks,47.4
+Engenheiro,8,CI/CD,46.9
+Engenheiro,9,AWS,46.1
+Engenheiro,10,Azure,43.0

@@ -1,0 +1,31 @@
+﻿cargo,skill,pct_cargo,pct_media_outros,diferenca_pp
+Analista,Power BI,63.2,21.5,41.7
+Analista,Excel,44.7,5.0,39.7
+Analista,DAX,13.6,2.0,11.6
+Analista,Looker,11.2,2.8,8.4
+Analista,Tableau,12.3,5.9,6.4
+Analista,Google Sheets,5.5,0.6,4.9
+Analista,R,7.2,4.3,2.9
+Analista,VBA / Macros,3.5,0.7,2.7
+Analista,Storytelling,5.4,2.9,2.5
+Analista,Qlik,2.8,1.7,1.1
+Cientista,Machine Learning,75.9,12.0,63.9
+Cientista,Estatística,57.6,10.5,47.1
+Cientista,scikit-learn,24.7,1.0,23.7
+Cientista,IA Generativa,35.3,11.9,23.4
+Cientista,Python,82.4,60.0,22.3
+Cientista,TensorFlow / PyTorch,18.2,0.3,17.9
+Cientista,Deep Learning,17.6,0.1,17.5
+Cientista,Pandas,20.6,5.2,15.4
+Cientista,Testes A/B,15.3,1.9,13.4
+Cientista,NLP,13.5,0.3,13.2
+Engenheiro,Data Lake / Lakehouse,56.1,7.4,48.7
+Engenheiro,Spark,52.6,14.2,38.4
+Engenheiro,CI/CD,46.9,9.9,37.1
+Engenheiro,ETL,50.4,13.9,36.5
+Engenheiro,Airflow,36.8,5.9,30.9
+Engenheiro,Modelagem de dados,47.8,18.9,28.9
+Engenheiro,Data Warehouse,32.5,5.5,27.0
+Engenheiro,Databricks,47.4,20.5,26.9
+Engenheiro,AWS,46.1,21.6,24.4
+Engenheiro,Git,40.4,18.3,22.1
