@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/processed/*.csv
+outputs/validacao/
+.DS_Store
+Thumbs.db
+.vscode/
